@@ -1,5 +1,6 @@
 #include <iostream>
+using namespace std;
 int main() {
-    std::cout << "Hello, World! This is my first change." << std::endl;
+    cout << "Change 2 Hello Galaxy" << endl;
     return 0;
 }
